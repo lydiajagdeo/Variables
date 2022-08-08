@@ -1,0 +1,14 @@
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/lydiajagdeo/repos/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/lydiajagdeo/repos/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
